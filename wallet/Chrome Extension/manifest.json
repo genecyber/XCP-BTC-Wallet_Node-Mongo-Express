@@ -1,0 +1,21 @@
+{
+   "author": "Joe Looney",
+   "background": {
+      "scripts": [ "js/jquery.min.js", "js/bitcoinjs-min.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon-128.png",
+      "default_popup": "popup.html"
+   },
+   "description": "Browser wallet for Bitcoin (bitcoin.org) and Counterparty Assets (counterparty.io).",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "manifest_version": 2,
+   "name": "XCP Wallet for Chrome",
+   "permissions": [ "storage", "clipboardWrite", "clipboardRead" ],
+   "short_name": "XCP Wallet",
+   "version": "0.2.0"
+}
