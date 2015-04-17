@@ -24,7 +24,7 @@ $( document ).ready(function() {
     //on open
     //var manifest = chrome.runtime.getManifest();
     //$("#nameversion").html("XCP Wallet for Chrome v" + manifest.version);
-	$("#nameversion").html("XCP Wallet for Chrome v-Shannon Edition" )// + manifest.version);
+	$("#nameversion").html("Refresh Balances " )// + manifest.version);
     
        var JsonFormatter = {
         stringify: function (cipherParams) {

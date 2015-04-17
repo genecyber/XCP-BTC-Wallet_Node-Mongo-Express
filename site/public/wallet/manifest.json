@@ -1,5 +1,5 @@
 {
-   "author": "Joe Looney",
+   "author": "Shannon Code",
    "background": {
       "scripts": [ "js/jquery.min.js", "js/bitcoinjs-min.js" ]
    },
